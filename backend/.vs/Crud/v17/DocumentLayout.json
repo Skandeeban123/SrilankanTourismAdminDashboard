@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026\\csharp\\Crud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\models\\newreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\newreviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\geminiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\models\\entity\\locationsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\entity\\locationsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\models\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\processed_reviews_full.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\processed_reviews_full.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|d:\\2026\\csharp\\crud\\crud\\migrations\\20260204012343_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{196D0690-8456-4759-B121-285C8EB432EA}|Crud\\Crud.csproj|solutionrelative:crud\\migrations\\20260204012343_initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T04:58:49.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GeminiService.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\GeminiService.cs",
+              "RelativeDocumentMoniker": "Crud\\GeminiService.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\GeminiService.cs",
+              "RelativeToolTip": "Crud\\GeminiService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAYwE0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T03:42:47.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\ReviewsController.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAYwHUBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T03:09:53.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:52:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\ENTITY\\User.cs",
+              "RelativeDocumentMoniker": "Crud\\MODELS\\ENTITY\\User.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\ENTITY\\User.cs",
+              "RelativeToolTip": "Crud\\MODELS\\ENTITY\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:45:48.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "processed_reviews_full.csv",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\processed_reviews_full.csv",
+              "RelativeDocumentMoniker": "Crud\\processed_reviews_full.csv",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\processed_reviews_full.csv",
+              "RelativeToolTip": "Crud\\processed_reviews_full.csv",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-02-17T23:59:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewReviewDto.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\NewReviewDto.cs",
+              "RelativeDocumentMoniker": "Crud\\MODELS\\NewReviewDto.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\NewReviewDto.cs",
+              "RelativeToolTip": "Crud\\MODELS\\NewReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:53:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LocationSummary.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\ENTITY\\LocationSummary.cs",
+              "RelativeDocumentMoniker": "Crud\\MODELS\\ENTITY\\LocationSummary.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\ENTITY\\LocationSummary.cs",
+              "RelativeToolTip": "Crud\\MODELS\\ENTITY\\LocationSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T23:05:31.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Crud\\MODELS\\UpdateEmployeeDto.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Crud\\MODELS\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:59:06.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Crud\\MODELS\\AddEmployeeDto.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\AddEmployeeDto.cs",
+              "RelativeToolTip": "Crud\\MODELS\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:09:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Crud\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Crud\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:07:53.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260204012343_initialization.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Migrations\\20260204012343_initialization.cs",
+              "RelativeDocumentMoniker": "Crud\\Migrations\\20260204012343_initialization.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Migrations\\20260204012343_initialization.cs",
+              "RelativeToolTip": "Crud\\Migrations\\20260204012343_initialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:23:43.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Program.cs",
+              "RelativeDocumentMoniker": "Crud\\Program.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Program.cs",
+              "RelativeToolTip": "Crud\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:16:51.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud\\appsettings.json",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\appsettings.json",
+              "RelativeToolTip": "Crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-04T01:12:31.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\DATA\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Crud\\DATA\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\DATA\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Crud\\DATA\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:08:23.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\ENTITY\\Employee.cs",
+              "RelativeDocumentMoniker": "Crud\\MODELS\\ENTITY\\Employee.cs",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\MODELS\\ENTITY\\Employee.cs",
+              "RelativeToolTip": "Crud\\MODELS\\ENTITY\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T01:05:32.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Crud.csproj",
+              "DocumentMoniker": "D:\\2026\\csharp\\Crud\\Crud\\Crud.csproj",
+              "RelativeDocumentMoniker": "Crud\\Crud.csproj",
+              "ToolTip": "D:\\2026\\csharp\\Crud\\Crud\\Crud.csproj",
+              "RelativeToolTip": "Crud\\Crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T01:04:45.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
